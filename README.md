@@ -1,5 +1,8 @@
 # SimpleSummary
 
+Summarizes text using a naive summarization algorithm
+
+
 ## Installation
 
 Add this line to your application's Gemfile:
@@ -24,7 +27,7 @@ Included is a 100 line review of the iPhone5S picked up online.
 
 ## Credits
 
-    https://gist.github.com/shlomibabluki
+[Python implementation](https://gist.github.com/shlomibabluki/5473521) by [shlomibabluki](http://www.github.com/shlomibabluki)
 
 ## Contributing
 
