@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["prashanth.rajagopal@gmail.com"]
   spec.summary       = %q{A naive text summarization tool}
   spec.description   = %q{A naive algorithm to summarize a piece of text}
-  spec.homepage      = ""
+  spec.homepage      = "http://www.prashanthr.net/2014/02/summarize-chunk-of-text-with-ruby.html"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
